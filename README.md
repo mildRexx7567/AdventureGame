@@ -205,21 +205,5 @@ git push -u origin main
 
 ---
 
-# Future Improvements
 
-Possible future upgrades:
-
-* Better map visualization
-* Real walls and blocked paths
-* Save/load system
-* Inventory system
-* Smarter enemy AI
-* Colored console UI
-* More room events
-* Sound effects
-
----
-
-# Author
-
-Created by Happy using C# and Visual Studio Code.
+Created by Jamhil using C# and Visual Studio Code.
