@@ -84,7 +84,6 @@ The player moves using:
 | S   | Move Down  |
 | A   | Move Left  |
 | D   | Move Right |
-| Q   | Quit Game  |
 
 ---
 
